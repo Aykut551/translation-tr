@@ -40,3 +40,4 @@ python3 scripts/validate.py
 - Portuguese (`pt`)
 - Russian (`ru`)
 - Chinese (`zh`)
+- Turkish (`tr`)
